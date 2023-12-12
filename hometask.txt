@@ -1,3 +1,7 @@
 отличаются:
 1. Пуговками
 2. Ботиночками
+коммиты:
+edit hometast
+create hometask
+Merge remote-tracking branch 'remotes/origin/hat'
